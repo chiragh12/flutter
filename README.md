@@ -52,5 +52,5 @@ Result: When users tap the "=" button, the calculator evaluates the mathematical
 Acknowledgments
 The Flutter team for providing an amazing framework for building cross-platform mobile applications.
 ## Contact
-If you have any questions or inquiries, you can reach me at shahzadarif545#gmail.com.
+If you have any questions or inquiries, you can reach me at shahzadarif545@gmail.com.
 
